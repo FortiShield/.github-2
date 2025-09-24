@@ -1,16 +1,8 @@
-# Security Policy
+## Security-Focused Roles
 
-## Reporting a Vulnerability
+- **Security Maintainer:** Reviews security-related pull requests and coordinates vulnerability disclosures.
+- **Pentester:** Conducts regular penetration testing and reports findings.
+- **Incident Responder:** Handles security incidents and coordinates with affected users.
+- **DevSecOps Engineer:** Integrates security tools and monitors automated checks in CI/CD.
 
-If you discover a security issue, please report it responsibly via [GitHub Security Advisories](https://docs.github.com/en/code-security/security-advisories) or email security@yourdomain.com.
-
-## Security Roles
-
-- Security Maintainers: @username1, @username2
-- Pentesters: @username3
-
-## Security Practices
-
-- Code review required for all merges.
-- Automated security scanning in CI/CD.
-- Regular dependency updates and audits.
+Contact: [security@yourdomain.com](mailto:security@yourdomain.com)
